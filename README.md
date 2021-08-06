@@ -1,6 +1,7 @@
-<div align="center" />
+<div align="center" 
 
 [![oLadeira GitHub stats](https://github-readme-stats.vercel.app/api?username=oLadeira&count_private=true&show_icons=true&theme=tokyonight&hide=prs,contribs)](https://github.com/oLadeira/github-readme-stats)
+     />
 ### Hi there 👋
 
 My name is Lucas Ladeira
