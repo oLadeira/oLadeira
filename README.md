@@ -5,6 +5,8 @@
 
 My name is Lucas Ladeira
 I'm a Software Developer Student
+-I'm currently working at TCS Brasil.
+
 <!--
 **oLadeira/oLadeira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
