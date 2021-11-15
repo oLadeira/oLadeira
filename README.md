@@ -4,8 +4,8 @@
      
 ### Hi there 👋
 
-My name is Lucas Ladeira
-<br/>I'm a Software Developer Student
+My name is Lucas Ladeira.
+<br/>I'm a Software Developer Student.
 <br/>I'm currently working at TCS Brasil.
 
 <p align="center">
