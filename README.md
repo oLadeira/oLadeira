@@ -21,6 +21,10 @@ My name is Lucas Ladeira.
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   </a>
 
+  <a href="" alt="Angular" target="_blank">   
+     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
+  </a>
+     
   <a href="" alt="Java" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
