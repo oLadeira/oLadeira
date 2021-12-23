@@ -36,6 +36,10 @@ My name is Lucas Ladeira.
   <a href="" alt="MySQL" target="_blank">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
+     
+  <a href="" alt="PostgreSQL" target="_blank">
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  </a>   
 
   <a href="" alt="Git" target="_blank">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
