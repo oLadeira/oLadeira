@@ -9,7 +9,11 @@ My name is Lucas Ladeira.
 <br/>I'm currently working at TCS Brasil.
 
 <p align="center">
-       
+  
+  <a href="" alt="Kotlin" target="_blank">
+    <img src ="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
+  </a>
+     
   <a href="" alt="Java" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
