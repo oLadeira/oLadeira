@@ -9,22 +9,7 @@ My name is Lucas Ladeira.
 <br/>I'm currently working at TCS Brasil.
 
 <p align="center">
-  <a href="" alt="HTML" target="_blank">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-
-  <a href="" alt="CSS" target="_blank">
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-
-  <a href="" alt="Bootstrap" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  </a>
-
-  <a href="" alt="Angular" target="_blank">   
-     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  </a>
-     
+       
   <a href="" alt="Java" target="_blank">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
