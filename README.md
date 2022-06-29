@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 My name is Lucas Ladeira.
-<br/>I'm a Software Developer Student.
+<br/>I'm a Backend Developer Student.
 <br/>Graduated in Systems Analysis and Development
 <br/>I'm currently working at TCS Brasil.
 
